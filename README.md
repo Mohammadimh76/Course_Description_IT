@@ -11,7 +11,7 @@
  
 #
   
-#### ایده ی کلی ساخت این ریپازیتوری از دوستم [حسین](https://github.com/HsnFirooz)  :)گرفته شده 
+#### ایده ی اصلی ساخت این ریپازیتوری از دوستم [حسین](https://github.com/HsnFirooz)  :)گرفته شده 
 #### بعضی از دروس هم از [ریپازیتوری حسین](https://github.com/HsnFirooz/Course-Description) گرفته شده در صورتی که رشته ی مهندسی کامپیوتر گرایش نرم افزار هستین میتونید به [ریپازیتوری حسین](https://github.com/HsnFirooz/Course-Description) مراجعه کنید :)
   
 #
