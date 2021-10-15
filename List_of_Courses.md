@@ -13,7 +13,7 @@
 - [یکپارچه سازی کاربردهای سازمانی](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Specialized%20Courses/Enterprise%20Application%20Integration.md): (Enterprise Application Integration)
 - [مبانی رایانش امن](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Specialized%20Courses/Fundamentals%20of%20Secure%20Computing.md): (Fundamentals of Secure Computing) 
 - [اقتصاد مهندسی](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Specialized%20Courses/Engineering%20Economy.md): (Engineering Economy)
-- تجارت الکترونیک: (Electronic Commerce)
+- [تجارت الکترونیک](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Specialized%20Courses/Electronic%20Commerce.md): (Electronic Commerce)
 - کارآموزی: (Internship)
 - پروژه کارشناسی: (Bachelor Project)
 
