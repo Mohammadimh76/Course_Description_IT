@@ -5,7 +5,7 @@
   
 # دروس تخصصی
   
-- تحیل طراحی سیستم ها: (System Analysis and Design) 
+- [تحیل طراحی سیستم ها](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Specialized%20Courses/System%20Analysis%20and%20Design.md): (System Analysis and Design) 
 - پایگاه داده ها: (Principles of Database Design)
 - اصول فناوری اطلاعات: (Fundamentals of Information Technology) 
 - اصول مدیریت و برنامه ریزی: (Principles of Information Technology Strategic Management and Planning) 
