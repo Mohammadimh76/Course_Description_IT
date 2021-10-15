@@ -24,20 +24,20 @@ Students can apply the essential concepts of relational database systems and can
 ### Course Objectives:
 
 1. Basic concepts
-- Relational model
-- Relational algebra and relational arithmetic
-- SQL
-- Normal descriptions
+	- Relational model
+	- Relational algebra and relational arithmetic
+	- SQL
+	- Normal descriptions
 
 2. Storage and indexing
-- Data storage
-- Indexing with tree structure
-- Indexing based on scrambling
+	- Data storage
+	- Indexing with tree structure
+	- Indexing based on scrambling
 
 3. Evaluate questions and answers
-- External sorting
-- Evaluate relationship operators
-- Optimize questions and answers
+	- External sorting
+	- Evaluate relationship operators
+	- Optimize questions and answers
 
 4. Transaction management
 		
