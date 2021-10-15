@@ -10,9 +10,7 @@ The purpose of this course is to acquaint students with the concepts of analysis
 | Cross section | Bachelor’s Degree | 
 | Needs | Does not have |
 | Prerequisites | Advanced Programming | 
-| Reference books | [1] L. D. Bentley and J. L. Whitten, Systems Analysis and Design for the Global Enterprise. 7th Edition, McGraw-Hill, 2007. 
-    [2] C. Larman, Applying UML and Patterns: An Introduction to Ohject-Oriented Analysis and Design and Iterative Development. Addison Wesley, 2004
-    [3] Roger S. Pressman, Software Engineering: a Practitioner's Approuch. McGraw Hill Inc.,7th Edition, 2011. |
+| Reference books | [1] L. D. Bentley and J. L. Whitten, Systems Analysis and Design for the Global Enterprise. 7th Edition, McGraw-Hill, 2007. [2] C. Larman, Applying UML and Patterns: An Introduction to Ohject-Oriented Analysis and Design and Iterative Development. Addison Wesley, 2004 [3] Roger S. Pressman, Software Engineering: a Practitioner's Approuch. McGraw Hill Inc.,7th Edition, 2011. |
 	
 ### At the end of the module students are able to:
    
