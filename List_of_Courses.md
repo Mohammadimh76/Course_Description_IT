@@ -8,7 +8,7 @@
 - [تحیل طراحی سیستم ها](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Specialized%20Courses/System%20Analysis%20and%20Design.md): (System Analysis and Design) 
 - [پایگاه داده ها](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Specialized%20Courses/Principles%20of%20Database%20Design.md): (Principles of Database Design)
 - [اصول فناوری اطلاعات](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Specialized%20Courses/Fundamentals%20of%20Information%20Technology.md): (Fundamentals of Information Technology) 
-- اصول مدیریت و برنامه ریزی: (Principles of Information Technology Strategic Management and Planning) 
+- [اصول مدیریت و برنامه ریزی](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Specialized%20Courses/Principles%20of%20Information%20Technology%20Strategic%20Management%20and%20Planning.md): (Principles of Information Technology Strategic Management and Planning) 
 - مدیریت پروژه: (Information Technology Project Management)
 - یکپارچه سازی کاربردهای سازمانی: (Enterprise Application Integration)
 - مبانی رایانش امن: (Fundamentals of Secure Computing) 
