@@ -38,7 +38,7 @@
 - [هوش مصنوعی و سیستم خبره](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/Artificial%20Intelligence%20Expert%20Systems.md): (Artificial Intelligence and Expert Systems)
 - [معماری کامپیوتر](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/Computer%20Architecture.md): (Computer Architecture) 
 - [سیستم های عامل](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/Operating%20Systems.md): (Operating Systems)
-- نظریه زبان ها و ماشین ها: (The Theory of Formal Languages and Automata) 
+- [نظریه زبان ها و ماشین ها](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/The%20Theory%20of%20Formal%20Languages%20and%20Automata.md): (The Theory of Formal Languages and Automata) 
 - آزمایشگاه شبکه: (Computer Networks Laboratory) 
 - ریاضیات مهندسی: (Engineering Mathematics)
 - اصول طراحی کامپایلر: (Fundamentals of Compiler Design)
