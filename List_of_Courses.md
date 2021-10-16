@@ -28,7 +28,7 @@
 - [زبان تخصصی](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/Technical%20English.md): (Technical English)
 - [مدارهای الکتریکی](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/Electric%20Circuits.md): (Electric Circuits)
 - [آزمایشگاه سیستم عامل](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/Operating%20Systems%20Lab.md): (Operating Systems Lab) 
-- مدارهای منطقی: (Logic Circuits)
+- [مدارهای منطقی](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/Logic%20Circuits.md): (Logic Circuits)
 - آزمایشگاه مدارهای منطقی و معماری: (Logic Circuits and Computer Architecture Laboratory)  
 - شبکه های کامپیوتری: (Computer Networks)
 - ریز پردازنده و زبان اسمبلی: (Microprocessors and Assembly Language) 
