@@ -23,7 +23,7 @@
 - [مبانی کامپیوتر و برنامه سازی](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/Fundamentals%20of%20Computer%20Programming.md): (Fundamentals of Computer Programming)
 - [برنامه نویسی پیشرفته](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/Advanced%20Programming.md): (Advanced Programming)
 - [ریاضیات گسسته](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/Discrete%20Mathematics.md): (Discrete Mathematics)
-- سیگنال ها و سیستم ها: (Signal and Systems)
+- [سیگنال ها و سیستم ها](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/Signal%20and%20Systems.md): (Signal and Systems)
 - ساختمان داده ها: (Data Structures)
 - زبان تخصصی: (Technical English)
 - مدارهای الکتریکی: (Electric Circuits)
