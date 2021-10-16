@@ -49,7 +49,7 @@
 - [ریاضی عمومی 1](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Basic%20Courses/General%20Mathematics%20I%20(Calculus%20I).md): (General Mathematics I (Calculus I))
 - [ ریاضی عمومی 2](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Basic%20Courses/General%20Mathematics%20II%20(Calculus%20II).md): (General Mathematics II (Calculus II))
 - [معادلات دیفرانسیل](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Basic%20Courses/Differential%20Equations.md): (Differential Equations) 
-- آمار و احتمالات مهندسی: (Engineering Probability and Statistics) 
+- [آمار و احتمالات مهندسی](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Basic%20Courses/Engineering%20Probability%20and%20Statistics.md): (Engineering Probability and Statistics) 
 - فیزیک 1: (Physics I (Heat and Mechanics)) 
 - فیزیک 2: (Physics II (Electricity and Magnetism)) 
 - کارگاه کامپیوتر: (Computer Workshop)
