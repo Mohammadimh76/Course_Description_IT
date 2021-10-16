@@ -24,7 +24,7 @@
 - [برنامه نویسی پیشرفته](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/Advanced%20Programming.md): (Advanced Programming)
 - [ریاضیات گسسته](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/Discrete%20Mathematics.md): (Discrete Mathematics)
 - [سیگنال ها و سیستم ها](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/Signal%20and%20Systems.md): (Signal and Systems)
-- ساختمان داده ها: (Data Structures)
+- [ساختمان داده ها](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/Data%20Structures.md): (Data Structures)
 - زبان تخصصی: (Technical English)
 - مدارهای الکتریکی: (Electric Circuits)
 - آزمایشگاه سیستم عامل: (Operating Systems Lab) 
