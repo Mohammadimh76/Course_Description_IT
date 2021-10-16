@@ -20,7 +20,7 @@
   
 # دروس اصلی
 
-- مبانی کامپیوتر و برنامه سازی: (Fundamentals of Computer Programming)
+- [مبانی کامپیوتر و برنامه سازی](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/Fundamentals%20of%20Computer%20Programming.md): (Fundamentals of Computer Programming)
 - برنامه نویسی پیشرفته: (Advanced Programming)
 - ریاضیات گسسته: (Discrete Mathematics)
 - سیگنال ها و سیستم ها: (Signal and Systems)
