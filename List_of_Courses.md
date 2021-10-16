@@ -53,7 +53,7 @@
 - [فیزیک 1](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Basic%20Courses/Physics%20I%20(Heat%20and%20Mechanics).md): (Physics I (Heat and Mechanics)) 
 - [فیزیک 2](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Basic%20Courses/Physics%20II%20(Electricity%20and%20Magnetism).md): (Physics II (Electricity and Magnetism)) 
 - [کارگاه کامپیوتر](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Basic%20Courses/Computer%20Workshop.md): (Computer Workshop)
-- آزمایشگاه فیزیک 2: (Physics Laboratory II (Electricity and Magnetism))
+- [آزمایشگاه فیزیک 2](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Basic%20Courses/Physics%20Laboratory%20II%20(Electricity%20and%20Magnetism).md): (Physics Laboratory II (Electricity and Magnetism))
 
 # دروس عمومی
     
