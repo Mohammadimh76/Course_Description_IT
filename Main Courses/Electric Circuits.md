@@ -23,44 +23,44 @@ The purpose of this course is to develop the ability to read fluently and unders
 ### Course Objectives:
 
 1. Rules and definitions
-- Concepts of compact and wide circuits
-- Voltage and current laws
-- Elements of an ideal and real valve (resistor, capacitor, inductor and sources of voltage and constant current)
-- Two-valve elements (dependent voltage and current sources, transistor model and operational amplifier)
-- Concepts of power and energy
-- Concepts of active or inactive elements
-- Waveforms (stairs, pals, impact and sine)
+	- Concepts of compact and wide circuits
+	- Voltage and current laws
+	- Elements of an ideal and real valve (resistor, capacitor, inductor and sources of voltage and constant current)
+	- Two-valve elements (dependent voltage and current sources, transistor model and operational amplifier)
+	- Concepts of power and energy
+	- Concepts of active or inactive elements
+	- Waveforms (stairs, pals, impact and sine)
 		
 2. General circuit analysis
-- Concepts of linearity and immutability with time
-- The concepts of zero state response and zero input response
-- Concepts of transient state response and permanent state response
-- Response concepts in the time domain and frequency domain
-- Methods of node and mesh analysis
+	- Concepts of linearity and immutability with time
+	- The concepts of zero state response and zero input response
+	- Concepts of transient state response and permanent state response
+	- Response concepts in the time domain and frequency domain
+	- Methods of node and mesh analysis
 		
 3. Analysis of circuits in the time domain
-- Simple circuits
-- Ordinary circuits
-- A concept of step response and impact response
-- Second order circuits
-- Far higher circuits
+	- Simple circuits
+	- Ordinary circuits
+	- A concept of step response and impact response
+	- Second order circuits
+	- Far higher circuits
 		
 4. Convolution theorem and users
-- Convolution integral
-- Zero mode response of linear circuits
+	- Convolution integral
+	- Zero mode response of linear circuits
 		
 5. Circuit analysis in the frequency domain
-- Laplace transform
-- How to use Laplace transforms in the analysis of electrical circuits
-- February series
-- Sinusoidal permanent state response
-- The concept of network function and its relationship with impact response
-- The concept of frequency response
+	- Laplace transform
+	- How to use Laplace transforms in the analysis of electrical circuits
+	- February series
+	- Sinusoidal permanent state response
+	- The concept of network function and its relationship with impact response
+	- The concept of frequency response
 		
 6. Network theorems and their applications
-- The case of collecting works
-- Norton Theorems
-- Maximum power transfer theorem
+	- The case of collecting works
+	- Norton Theorems
+	- Maximum power transfer theorem
 		
 7. Familiarity with spice simulator software and its user in electrical circuit analysis
 
