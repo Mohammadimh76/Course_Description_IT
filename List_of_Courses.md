@@ -41,7 +41,7 @@
 - [نظریه زبان ها و ماشین ها](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/The%20Theory%20of%20Formal%20Languages%20and%20Automata.md): (The Theory of Formal Languages and Automata) 
 - [آزمایشگاه شبکه](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/Computer%20Networks%20Laboratory.md): (Computer Networks Laboratory) 
 - [ریاضیات مهندسی](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/Engineering%20Mathematics.md): (Engineering Mathematics)
-- اصول طراحی کامپایلر: (Fundamentals of Compiler Design)
+- [اصول طراحی کامپایلر](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/Fundamentals%20of%20Compiler%20Design.md): (Fundamentals of Compiler Design)
 - روش پژوهش و ارایه: (Research and Technical Presentation) 
 
 # دروس پایه
