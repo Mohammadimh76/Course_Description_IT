@@ -32,7 +32,7 @@
 - [آزمایشگاه مدارهای منطقی و معماری](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/Logic%20Circuits%20and%20Computer%20Architecture%20Laboratory.md): (Logic Circuits and Computer Architecture Laboratory)  
 - [شبکه های کامپیوتری](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/Computer%20Networks.md): (Computer Networks)
 - [ریز پردازنده و زبان اسمبلی](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/Microprocessors%20and%20Assembly%20Language.md): (Microprocessors and Assembly Language) 
-- آزمایشگاه ریزپردازنده: (Microprocessors Laboratory)
+- [آزمایشگاه ریزپردازنده](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/Microprocessors%20Laboratory.md): (Microprocessors Laboratory)
 - طراحی سیستم های دیجیتال: (Computer-Aided Digital System Design) 
 - طراحی الگوریتم: (Design of Algorithms) 
 - هوش مصنوعی و سیستم خبره: (Artificial Intelligence and Expert Systems)
