@@ -46,7 +46,7 @@
 
 # دروس پایه
 
-- ریاضی عمومی 1: (General Mathematics I (Calculus I))
+- [ریاضی عمومی 1](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Basic%20Courses/General%20Mathematics%20I%20(Calculus%20I).md): (General Mathematics I (Calculus I))
 - ریاضی عمومی 2: (General Mathematics II (Calculus II))
 - معادلات دیفرانسیل: (Differential Equations) 
 - آمار و احتمالات مهندسی: (Engineering Probability and Statistics) 
