@@ -36,7 +36,7 @@
 - [طراحی سیستم های دیجیتال](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/Computer-Aided%20Digital%20System%20Design.md): (Computer-Aided Digital System Design) 
 - [طراحی الگوریتم](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/Design%20of%20Algorithms.md): (Design of Algorithms) 
 - [هوش مصنوعی و سیستم خبره](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/Artificial%20Intelligence%20Expert%20Systems.md): (Artificial Intelligence and Expert Systems)
-- معماری کامپیوتر: (Computer Architecture) 
+- [معماری کامپیوتر](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/Computer%20Architecture.md): (Computer Architecture) 
 - سیستم های عامل: (Operating Systems)
 - نظریه زبان ها و ماشین ها: (The Theory of Formal Languages and Automata) 
 - آزمایشگاه شبکه: (Computer Networks Laboratory) 
