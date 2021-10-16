@@ -26,7 +26,7 @@
 - [سیگنال ها و سیستم ها](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/Signal%20and%20Systems.md): (Signal and Systems)
 - [ساختمان داده ها](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/Data%20Structures.md): (Data Structures)
 - [زبان تخصصی](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/Technical%20English.md): (Technical English)
-- مدارهای الکتریکی: (Electric Circuits)
+- [مدارهای الکتریکی](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/Electric%20Circuits.md): (Electric Circuits)
 - آزمایشگاه سیستم عامل: (Operating Systems Lab) 
 - مدارهای منطقی: (Logic Circuits)
 - آزمایشگاه مدارهای منطقی و معماری: (Logic Circuits and Computer Architecture Laboratory)  
