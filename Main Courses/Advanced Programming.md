@@ -15,11 +15,11 @@ The purpose of this lesson is to explore different ways to produce a quality pro
 
 ### At the end of the module students are able to:
 
-    \item Solve problems with the top-down design method
-    \item Manages the complexity of the programming problem by defining appropriate classes
-    \item Appropriate abstraction methods such as inheritance and polymorphism are used
-    \item They use the essential features of programming language libraries
-    \item Ability to use the necessary methods to test and debug the program
+- Solve problems with the top-down design method
+- Manages the complexity of the programming problem by defining appropriate classes
+- Appropriate abstraction methods such as inheritance and polymorphism are used
+- They use the essential features of programming language libraries
+- Ability to use the necessary methods to test and debug the program
 
 ### Course Objectives:
 
