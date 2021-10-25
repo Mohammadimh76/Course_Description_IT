@@ -1,10 +1,10 @@
 
-# Fundamentals of Compiler Design
+# Principle of Compiler Design
 
 Designing and building compilers is one of the basic concepts of computer science. Although the methods of making compilers are slightly varied, they can be used to make interpreters and translators from a wide variety of languages and machines. Becomes. After an initial introduction to the components of a compiler and the types of grammars, the various stages of translation such as lexical analysis, semantics and semantics, and code generation and payment are described.
 
 
-| Name of Course |	Fundamentals of Compiler Design |
+| Name of Course |	Principle of Compiler Design |
 |---|---|
 | Number of Credits | 3 |
 | Number of Hours | 48 | 
