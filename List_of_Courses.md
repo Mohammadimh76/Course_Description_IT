@@ -57,9 +57,9 @@
 
 # دروس عمومی
     
-- [انقلاب اسلامی 1](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/General%20Courses/General%20Courses.md): (Islamic Thought I)
-- [انقلاب اسلامی 2](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/General%20Courses/General%20Courses.md): (Islamic Thought II)
-- آیین زندگی: (Lifestyle)
+- [انقلاب اسلامی 1](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/General%20Courses/General%20Courses.md): (Islamic Ideology I)
+- [انقلاب اسلامی 2](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/General%20Courses/General%20Courses.md): (Islamic Ideology II)
+- آیین زندگی: (Principles of life (applied ethics))
 - [انقلاب اسلامی](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/General%20Courses/General%20Courses.md): (Islamic Revolution of Iran)
 - [تاریخ فرهنگ و تمدن اسلامی](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/General%20Courses/General%20Courses.md): (The History of Islamic Culture and Civilization)
 - [تفسیر موضوعی قرآن](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/General%20Courses/General%20Courses.md): (Thematic Interpretation of Qu'ran)
