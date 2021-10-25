@@ -1,9 +1,9 @@
 
-# Information Technology Project Management
+# Information Technology Projects Management
 
 In this course, students get acquainted with the principles and foundations of project management and control and how to use the techniques of this field in information technology projects.
 
-| Name of Course |	Information Technology Project Management |
+| Name of Course |	Information Technology Projects Management |
 |---|---|
 | Number of Credits | 3 |
 | Number of Hours | 48 | 
