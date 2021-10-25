@@ -1,9 +1,9 @@
 
-# Advanced Programming
+# Advanced Computer Programming
 
 The purpose of this lesson is to explore different ways to produce a quality program. In this regard, after covering the top-down design method for problem-solving, students are introduced to the concepts of object-oriented programming as a tool for complexity management in medium and large-sized applications. Throughout the lesson, you will focus on the proper functioning of the test and debugging program, which is achieved through methods such as unit tests, assertions, and pre-and multiple conditions. The emphasis of the lesson will be on methods rather than the advantages of a particular programming language. This lesson can be presented in any common object-oriented programming language, such as Java with C++.
 
-| Name of Course |	Advanced Programming |
+| Name of Course |	Advanced Computer Programming |
 |---|---|
 | Number of Credits | 3 |
 | Number of Hours | 48 | 
