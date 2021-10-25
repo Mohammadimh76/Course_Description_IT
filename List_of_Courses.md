@@ -9,8 +9,8 @@
 - [پایگاه داده ها](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Specialized%20Courses/Principles%20of%20Database%20Design.md): (Principles of Database Design)
 - [اصول فناوری اطلاعات](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Specialized%20Courses/Fundamentals%20of%20Information%20Technology.md): (Fundamentals of Information Technology) 
 - [اصول مدیریت و برنامه ریزی](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Specialized%20Courses/Principles%20of%20Information%20Technology%20Strategic%20Management%20and%20Planning.md): (Principles of Information Technology Strategic Management and Planning) 
-- [مدیریت پروژه](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Specialized%20Courses/Information%20Technology%20Project%20Management.md): (Information Technology Project Management)
-- [یکپارچه سازی کاربردهای سازمانی](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Specialized%20Courses/Enterprise%20Application%20Integration.md): (Enterprise Application Integration)
+- [مدیریت پروژه](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Specialized%20Courses/Information%20Technology%20Project%20Management.md): (Information Technology Projects Management)
+- [یکپارچه سازی کاربردهای سازمانی](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Specialized%20Courses/Enterprise%20Application%20Integration.md): (Enterprise Applications Integration)
 - [مبانی رایانش امن](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Specialized%20Courses/Fundamentals%20of%20Secure%20Computing.md): (Fundamentals of Secure Computing) 
 - [اقتصاد مهندسی](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Specialized%20Courses/Engineering%20Economy.md): (Engineering Economy)
 - [تجارت الکترونیک](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Specialized%20Courses/Electronic%20Commerce.md): (Electronic Commerce)
@@ -21,7 +21,7 @@
 # دروس اصلی
 
 - [مبانی کامپیوتر و برنامه سازی](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/Fundamentals%20of%20Computer%20Programming.md): (Fundamentals of Computer Programming)
-- [برنامه نویسی پیشرفته](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/Advanced%20Programming.md): (Advanced Programming)
+- [برنامه نویسی پیشرفته](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/Advanced%20Programming.md): (Advanced Computer Programming)
 - [ریاضیات گسسته](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/Discrete%20Mathematics.md): (Discrete Mathematics)
 - [سیگنال ها و سیستم ها](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/Signal%20and%20Systems.md): (Signal and Systems)
 - [ساختمان داده ها](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/Data%20Structures.md): (Data Structures)
@@ -33,7 +33,7 @@
 - [شبکه های کامپیوتری](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/Computer%20Networks.md): (Computer Networks)
 - [ریز پردازنده و زبان اسمبلی](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/Microprocessors%20and%20Assembly%20Language.md): (Microprocessors and Assembly Language) 
 - [آزمایشگاه ریزپردازنده](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/Microprocessors%20Laboratory.md): (Microprocessors Laboratory)
-- [طراحی سیستم های دیجیتال](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/Computer-Aided%20Digital%20System%20Design.md): (Computer-Aided Digital System Design) 
+- [طراحی سیستم های دیجیتال](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/Computer-Aided%20Digital%20System%20Design.md): (Digital Systems Design) 
 - [طراحی الگوریتم](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/Design%20of%20Algorithms.md): (Design of Algorithms) 
 - [هوش مصنوعی و سیستم خبره](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/Artificial%20Intelligence%20Expert%20Systems.md): (Artificial Intelligence and Expert Systems)
 - [معماری کامپیوتر](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/Computer%20Architecture.md): (Computer Architecture) 
@@ -41,8 +41,8 @@
 - [نظریه زبان ها و ماشین ها](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/The%20Theory%20of%20Formal%20Languages%20and%20Automata.md): (The Theory of Formal Languages and Automata) 
 - [آزمایشگاه شبکه](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/Computer%20Networks%20Laboratory.md): (Computer Networks Laboratory) 
 - [ریاضیات مهندسی](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/Engineering%20Mathematics.md): (Engineering Mathematics)
-- [اصول طراحی کامپایلر](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/Fundamentals%20of%20Compiler%20Design.md): (Fundamentals of Compiler Design)
-- [روش پژوهش و ارایه](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/Research%20and%20Technical%20Presentation.md): (Research and Technical Presentation) 
+- [اصول طراحی کامپایلر](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/Fundamentals%20of%20Compiler%20Design.md): (Principle of Compiler Design)
+- [روش پژوهش و ارایه](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/Main%20Courses/Research%20and%20Technical%20Presentation.md): (Methods of Research and Presentation) 
 
 # دروس پایه
 
