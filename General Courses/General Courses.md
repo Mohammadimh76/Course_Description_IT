@@ -1,9 +1,9 @@
 
-# Islamic Thought I
+# Islamic Ideology I
 
 Focused on Islamic Laws and Regulations.
 
-# Islamic Thought II
+# Islamic Ideology II
 
 Based on Rational and Philosophical proofs of God and other Islamic Concepts.
 
