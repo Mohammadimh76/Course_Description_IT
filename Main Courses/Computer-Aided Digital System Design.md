@@ -1,9 +1,9 @@
 
-# Computer-Aided Digital System Design
+# Digital Systems Design
 
 Familiarity with automated methods of designing and debugging digital circuits and systems with the approach of using tools | Automatic design of integrated circuits.
 
-| Name of Course |	Computer-Aided Digital System Design |
+| Name of Course |	Digital Systems Design |
 |---|---|
 | Number of Credits | 3 |
 | Number of Hours | 48 | 
