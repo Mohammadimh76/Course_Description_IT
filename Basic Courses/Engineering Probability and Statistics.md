@@ -1,10 +1,10 @@
 
-# Engineering Probability and Statistics
+# Engineering Statistics and Probability
 
 After successful completion of the module: 1) Participants are familiar with essential concepts of discrete and continuous probability spaces and stochastic processes and can in large part deduce them themselves, 2) master calculation rules for the determination and estimation of probabilities, expected values, and variances, 3) can map real problems to abstract probability spaces, and 4) can easily apply simple statistical tests.
 
 
-| Name of Course |	Engineering Probability and Statistics |
+| Name of Course |	Engineering Statistics and Probability  |
 |---|---|
 | Number of Credits | 3 |
 | Number of Hours | 48 | 
