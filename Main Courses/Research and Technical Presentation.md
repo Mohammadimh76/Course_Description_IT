@@ -1,10 +1,10 @@
 
-# Research and Technical Presentation
+# Methods of Research and Presentation
 
 The purpose of this course is to get acquainted with and acquire skills in the principles and methods of conducting research, the principles of preparing various types of written presentations, issues raised in the implementation of various types of speech donations, and familiarity with relevant tools.
 
 
-| Name of Course |	Research and Technical Presentation |
+| Name of Course |	Methods of Research and Presentation |
 |---|---|
 | Number of Credits | 2 |
 | Number of Hours | 32 | 
