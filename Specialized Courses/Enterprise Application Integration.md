@@ -1,9 +1,9 @@
 
-# Enterprise Application Integration
+# Enterprise Applications Integration
 
 Familiarity with techniques, tools, and skills in integrating enterprise application systems, providing solutions for linking antique and new applications in network application environments. Data and process, the concept of enterprise service gateway, its structure, and application, the types of integration patterns in service architectures. Incident - drive and grid, familiarity with safety considerations in integration.
 
-| Name of Course |	Enterprise Application Integration |
+| Name of Course |	Enterprise Applications Integration |
 |---|---|
 | Number of Credits | 3 |
 | Number of Hours | 48 | 
