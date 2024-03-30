@@ -19,3 +19,6 @@
 
 
 ## [👈برای مشاهده ی لیست دروس کلیک کنید👉](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/List_of_Courses.md)
+#
+
+## [📚دانلود نسخه ی pdf](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/pdf/Course_Description.pdf)
