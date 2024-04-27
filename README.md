@@ -28,4 +28,9 @@
 
 #
 
-## [📚دانلود نسخه ی pdf](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/pdf/CourseDescription_IT.pdf)
+## [📚دانلود نسخه ی pdf (لینک مستقیم)](https://raw.githubusercontent.com/Mohammadimh76/Course_Description_IT/552c52195dbfee4cc740624514ac9a059a0471a2/pdf/CourseDescription_IT.pdf)
+## [📚دانلود نسخه ی pdf (لینک اصلی)](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/pdf/CourseDescription_IT.pdf)
+
+
+
+
