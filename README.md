@@ -19,6 +19,9 @@
 
 
 ## [👈برای مشاهده ی لیست دروس کلیک کنید👉](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/List_of_Courses.md)
+
+## ❌❌❌👈فایل دروس، تنها در نسخه ی pdf اپدیت شده اند. (آخرین اپدیت 8 اردیبهشت ماه سال 1403)
+
 #
 
 ## [📚دانلود نسخه ی pdf](https://github.com/Mohammadimh76/Course_Description_IT/blob/main/pdf/CourseDescription_IT.pdf)
